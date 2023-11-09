@@ -1,15 +1,1 @@
-body{font-size: 20px;}
-
-.principal{text-align: center;background-color: gray;}
-
-.alinhar{text-align: center;}
-
-  .destaque{color: red;}
-
-  .imagem{width: 100%;}
-
-  .lista{display: inline;vertical-align: top;}
-
-  .imagem_benefício{width: 50%;}
-  
-  .titulo-principal{ padding-left: 20px;}
+  .cabeçalho{background-color: gray;}
