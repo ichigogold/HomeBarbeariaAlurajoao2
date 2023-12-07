@@ -25,7 +25,7 @@
    
     }
    
-.produtos{ width: 940px;
+.produtos{ width: 1000px;
         margin: 0 auto;}
    
 .produtos li {display: inline-block;
@@ -46,7 +46,7 @@
    
    
    
-.descrição{font-size: 18px;}
+.descrição{font-size: 10px;}
 .cabeçalho{background-color: gray;
     padding: 20px;}
    
@@ -87,7 +87,7 @@
         border: 2px solid black;
         border-radius: 10px;}
    
-.produtos li:hover{border-color: slateblue;}
+.produtos li:hover{border-color: rgb(243, 0, 0);}
 .produtos li:active{border-color: darkviolet;}
 .produtos li:hover h2 {
         font-size: 40px;
